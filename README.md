@@ -44,8 +44,7 @@ Based on the system design and power requirements, the following components were
 
 The following Fritzing diagram illustrates the connections between the microphone array, power management modules, MOSFET drivers, and the Arduino.
 
-<img width="13508" height="9643" alt="xi_bb2" src="https://github.com/user-attachments/assets/ec117aca-d77d-4921-b792-49b9482d023d" />
-
+<img width="13711" height="9643" alt="xi_bb" src="https://github.com/user-attachments/assets/c6e3b53a-f50e-47cc-8985-2e110bff3690" />
 
 ### Pin Configuration
 * **Microphones (5x):** A0, A1, A2, A3, A4
